@@ -1,0 +1,8 @@
+C:\David\Не моё\AutoServiceAdmin_\bin\Debug\AutoServiceAdmin_.exe.config
+C:\David\Не моё\AutoServiceAdmin_\bin\Debug\AutoServiceAdmin_.exe
+C:\David\Не моё\AutoServiceAdmin_\bin\Debug\AutoServiceAdmin_.pdb
+C:\David\Не моё\AutoServiceAdmin_\obj\Debug\AutoServiceAdmin_.csproj.AssemblyReference.cache
+C:\David\Не моё\AutoServiceAdmin_\obj\Debug\AutoServiceAdmin_.csproj.CoreCompileInputs.cache
+C:\David\Не моё\AutoServiceAdmin_\obj\Debug\AutoServiceAdmin_.exe
+C:\David\Не моё\AutoServiceAdmin_\obj\Debug\AutoServiceAdmin_.pdb
+C:\David\Не моё\AutoServiceAdmin_\obj\Debug\AutoServiceAdmin_.exe.config
